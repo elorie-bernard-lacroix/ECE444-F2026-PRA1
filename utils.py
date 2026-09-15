@@ -1,3 +1,8 @@
+"""
+Utils module for ECE444-F2026-PRA1
+Last modified by Elorie Bernard-Lacroix on Sept 15, 2026
+"""
+
 class utils:
     """ A class that contains utility functions. """
 
